@@ -1,6 +1,6 @@
 # Screen share
 
-A quick and dirty way to share any screen in a browser tab.
+A quick and dirty way to share any window in a browser tab.
 
 Available here: https://duologic.github.io/ScreenShare/
 
