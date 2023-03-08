@@ -11,6 +11,8 @@ Zoom and Google Meet then require me to switch screen sharing windows or display
 screen at once, both are cumbersome and annoying. With this tool I can share just about
 any window in a tab and switch back and forth easily.
 
+![xzibit meme](xzibit_meme.jpg)
+
 ## Develop
 
 `getDisplayMedia` requires an SSL connection regardless, so local development can only be
